@@ -24,8 +24,6 @@ nav{
     align-items: center;
 }
 
-.card{}
-
 .bodycard{
     display: flex;
     justify-content:space-between;
